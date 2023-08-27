@@ -14,7 +14,7 @@ String printfunc() {
     s,
     v,
     d
-  ); //variable data types should bein sequence with the type mentioned for the function.
+  ); //variable data types should be in sequence with the type mentioned for the function.
 }
 
 int sum_func(int a, int b) {
